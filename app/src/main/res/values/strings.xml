@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="numero1">Numero 1</string>
+    <string name="numero2">Numero 2</string>
+    <string name="salvar">Salvar</string>
+    <string name="fecharContas">Fechar</string>
+    <string name="contas_salvas">Lista de contas salvas</string>
+</resources>

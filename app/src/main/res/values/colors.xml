@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- minhas cores -->
+    <color name="colorSoma">#76be9d</color>
+    <color name="colorSubtracao">#f5ff40</color>
+    <color name="colorMultiplicacao">#cf130d</color>
+    <color name="colorDivisao">#5c42e7</color>
+</resources>
